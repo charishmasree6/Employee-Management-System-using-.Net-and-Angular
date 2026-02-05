@@ -1,0 +1,7 @@
+C:\Users\chari\OneDrive\Desktop\Employee management\backend\EmployeeManagementAPI\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\chari\OneDrive\Desktop\Employee management\backend\EmployeeManagementAPI\obj\Debug\net8.0\EmployeeManagementAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chari\OneDrive\Desktop\Employee management\backend\EmployeeManagementAPI\obj\Debug\net8.0\EmployeeManagementAPI.AssemblyInfoInputs.cache
+C:\Users\chari\OneDrive\Desktop\Employee management\backend\EmployeeManagementAPI\obj\Debug\net8.0\EmployeeManagementAPI.AssemblyInfo.cs
+C:\Users\chari\OneDrive\Desktop\Employee management\backend\EmployeeManagementAPI\obj\Debug\net8.0\EmployeeManagementAPI.csproj.CoreCompileInputs.cache
+C:\Users\chari\OneDrive\Desktop\Employee management\backend\EmployeeManagementAPI\obj\Debug\net8.0\EmployeeManagementAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\chari\OneDrive\Desktop\Employee management\backend\EmployeeManagementAPI\obj\Debug\net8.0\EmployeeManagementAPI.sourcelink.json

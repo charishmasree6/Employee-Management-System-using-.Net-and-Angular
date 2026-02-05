@@ -1,0 +1,13 @@
+<h2>Employee Management</h2>
+
+<input placeholder="Name" [(ngModel)]="employee.name">
+<input placeholder="Role" [(ngModel)]="employee.role">
+<input placeholder="Email" [(ngModel)]="employee.email">
+<button (click)="addEmployee()">Add</button>
+
+<ul>
+  <li *ngFor="let e of employees">
+    {{e.name}} - {{e.role}}
+    <button (click)="deleteEmployee(e.id)">Delete</button>
+  </li>
+</ul>
