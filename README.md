@@ -4,13 +4,13 @@
 - Backend: ASP.NET Core Web API (.NET)
 - Frontend: Angular
 - Database: SQL Server
-- Tools: Visual Studio, VS Code, Postman
+- Tools: Visual Studio,VS Code, Postman
 
 ## Project Description
 This is a full-stack Employee Management System developed using ASP.NET Core and Angular.  
 The application allows managing employee records through CRUD operations.
 
-## Features
+## Features(CRUD)
 - Add new employee
 - View employee list
 - Update employee details
